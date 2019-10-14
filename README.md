@@ -6,9 +6,9 @@ Print the names of artists in order of non-decreasing year of birth. If the arti
 ### Installation
 The program is written in Python3 and it is expected that it is already installed
 In case of conflict with Python2, use pip3:
-'''
+```
 pip install -r requirements.txt
-'''
+```
 ###Using
 A file named "input.txt" is expected in the root directory containing the names of the artists in Unicode.
 The result of the execution will be a list of the names of artists and their dates of birth, displayed in the console.
